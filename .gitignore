@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis
+.env
+
+# Arquivos de saída / resultados
+*.png
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.tif
+*.tiff
+*.aux
+*.xml
+
+# Logs
+*.log

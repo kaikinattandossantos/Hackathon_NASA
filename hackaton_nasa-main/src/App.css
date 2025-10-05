@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-main-degrade {
+    background: linear-gradient(
+        90deg,
+        rgba(28, 33, 71, 1) 0%,
+        rgba(20, 26, 59, 1) 53%,
+        rgba(12, 16, 35, 1) 100%
+    );
+    background-color: #1c2147; 
+}
+
+.bg-bar-degrade {
+    background: linear-gradient(
+        90deg,
+        rgba(160, 169, 187, 1) 0%,
+        rgba(161, 169, 191, 1) 27%,
+        rgba(134, 147, 163, 1) 53%,
+        rgba(173, 181, 204, 1) 72%,
+        rgba(222, 234, 255, 1) 100%
+    );
+}

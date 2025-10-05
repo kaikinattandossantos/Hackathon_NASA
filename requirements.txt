@@ -1,0 +1,9 @@
+pandas
+geopandas
+matplotlib
+requests
+numpy
+scipy
+rasterio
+rasterstats
+python-dotenv
